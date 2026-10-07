@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Knewave";
+    src: url("font/Knewave-Regular.ttf");
+}
+
+body {
+    font-family: "Knewave", sans-serif;
+}
+img {
+    width: 400px;
+}
